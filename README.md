@@ -49,5 +49,5 @@
   <h2 id="license">License</h2>
   <p>This project is licensed under the project owner - Kumar Wayadande.</p>
   
-  <a href="https://github.com/KumarWayadande/project-management-app.git" class="button">View on GitHub</a>
+  <a href="https://github.com/KumarWayadande/place-picker.git" class="button">View on GitHub</a>
   
